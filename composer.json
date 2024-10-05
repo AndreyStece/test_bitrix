@@ -1,0 +1,15 @@
+{
+    "name": "stece/test-bitrix",
+    "autoload": {
+        "psr-4": {
+            "Stece\\TestBitrix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrei",
+            "email": "stecenkoandrej@gmail.com"
+        }
+    ],
+    "require": {}
+}
